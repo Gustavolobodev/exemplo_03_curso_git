@@ -1,0 +1,8 @@
+Titulo: Programa com Rails
+Resumo: Esse trabalho visa mostrar tal tal tal
+sumario
+cap 1
+cap 2 
+...
+referencias
+...
