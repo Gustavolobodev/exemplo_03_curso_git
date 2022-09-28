@@ -2,6 +2,7 @@ Titulo: Programa com Rails
 Resumo: Esse trabalho visa mostrar tal tal tal
 sumario
 cap 1
+  Esse capítulo fala sobre tal e tal
 cap 2 
 ...
 referencias
